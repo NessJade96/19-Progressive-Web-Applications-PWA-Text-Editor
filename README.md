@@ -26,10 +26,8 @@ SO THAT I can reliably retrieve them for later use
 
 ## Links:
 
-```md
-- GitHub: https://github.com/NessJade96/18-NoSQL-Social-Network-API
+- GitHub: https://github.com/NessJade96/19-Progressive-Web-Applications-PWA-Text-Editor
 - Heroku:
-```
 
 ## planning notes:
 
@@ -37,7 +35,9 @@ SO THAT I can reliably retrieve them for later use
 
 ## Commit notes:
 
-1.
+1. copy starter code for folder setup, and created readme.md.
+
+2.
 
 Thank you :)
 By Vanessa
