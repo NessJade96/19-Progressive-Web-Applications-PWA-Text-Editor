@@ -3,13 +3,17 @@
 ## Description:
 
 ```md
-a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria.
+Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.
+The application will also function offline.
 ```
 
 ## User Setup: // need to udpate!
 
 ```md
-To use this at home, in your terminal run the following commands to invoke the application: `npm i` to install packages, then `npm run start` starts the live server.
+To use this at home, in your terminal run the following commands to invoke the application:
+`npm i` to install packages,
+then `npm run start` starts the live server.
 ```
 
 ## User Story
