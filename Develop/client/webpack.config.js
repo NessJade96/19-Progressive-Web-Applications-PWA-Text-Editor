@@ -34,15 +34,15 @@ module.exports = () => {
 				swSrc: './src-sw.js',
 				swDest: 'src-sw.js',
 			}),
-			// Creates a manifest.json file. // NEED TO CHANGE THE BELOW!
+			// Creates a manifest.json file.
 			new WebpackPwaManifest({
 				fingerprints: false,
 				inject: true,
-				name: 'Contact Cards',
-				short_name: 'Contact',
-				description: 'Never forget your contacts!',
-				background_color: '#225ca3',
-				theme_color: '#225ca3',
+				name: 'Notes',
+				short_name: 'Notes',
+				description: 'Keep track of your notes!',
+				background_color: '#7eb4e2',
+				theme_color: '#7eb4e2',
 				start_url: './',
 				publicPath: './',
 				icons: [

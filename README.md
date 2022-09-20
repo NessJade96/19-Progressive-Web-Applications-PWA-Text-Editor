@@ -51,5 +51,7 @@ SO THAT I can reliably retrieve them for later use
 
 2. Wrote some planning notes, added the db get and update methods in the src/js/database.js file. Added in the click handler functions to the client/install.js. Added in workbox plugins for a service worker and manifest files, and added in css loaders and babel to webpack into the client/webpack.config.js. Moved the gitignore outside of the client and into the root folder. Wrote the npm scripts into the package.json
 
+3. updated the manifest in the sclient webpack.config.
+
 Thank you :)
 By Vanessa
