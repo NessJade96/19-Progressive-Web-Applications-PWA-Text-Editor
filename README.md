@@ -6,7 +6,7 @@ A text editor that runs in the browser. The app will be a single-page applicatio
 Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.
 The application will also function offline.
 
-## User Setup: // need to udpate!
+## User Setup:
 
 To use this at home, in your terminal run the following commands to invoke the application:
 `npm i` to install packages,
