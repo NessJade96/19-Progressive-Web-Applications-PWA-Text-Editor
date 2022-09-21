@@ -27,7 +27,7 @@ module.exports = () => {
 			// Webpack plugin that generates our html file and injects our bundles.
 			new HtmlWebpackPlugin({
 				template: './index.html',
-				title: 'Webpack Plugin',
+				title: 'Jate',
 			}),
 			// Injects our custom service worker
 			new InjectManifest({
@@ -38,8 +38,8 @@ module.exports = () => {
 			new WebpackPwaManifest({
 				fingerprints: false,
 				inject: true,
-				name: 'Notes',
-				short_name: 'Notes',
+				name: 'Just Another Text Editor',
+				short_name: 'Jate',
 				description: 'Keep track of your notes!',
 				background_color: '#7eb4e2',
 				theme_color: '#7eb4e2',

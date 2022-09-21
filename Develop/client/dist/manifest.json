@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Notes",
-  "short_name": "Notes",
+  "name": "Just Another Text Editor",
+  "short_name": "Jate",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
