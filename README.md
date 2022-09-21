@@ -27,7 +27,7 @@ SO THAT I can reliably retrieve them for later use
 ## Links:
 
 - GitHub: https://github.com/NessJade96/19-Progressive-Web-Applications-PWA-Text-Editor
-- Heroku:
+- Heroku: https://lit-refuge-55705.herokuapp.com/
 
 ## planning notes:
 
@@ -51,7 +51,7 @@ SO THAT I can reliably retrieve them for later use
 
 2. Wrote some planning notes, added the db get and update methods in the src/js/database.js file. Added in the click handler functions to the client/install.js. Added in workbox plugins for a service worker and manifest files, and added in css loaders and babel to webpack into the client/webpack.config.js. Moved the gitignore outside of the client and into the root folder. Wrote the npm scripts into the package.json
 
-3. updated the manifest in the client webpack.config. Changed the get and put routes in the client/databse.js, app fully functioning.
+3. Updated the manifest in the client webpack.config. Changed the get and put routes in the client/databse.js, app fully functioning.
 
 Thank you :)
 By Vanessa
